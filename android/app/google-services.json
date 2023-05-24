@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "300614073343",
+    "project_id": "homework-crud-ec848",
+    "storage_bucket": "homework-crud-ec848.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300614073343:android:c1cc7c62897335004885ca",
+        "android_client_info": {
+          "package_name": "com.example.homework_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300614073343-4so0o94sngsp23qb8jnn30mu0jrfcemi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgaVudBw81yVNb0KUoO5JaS-y1GFLdYwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300614073343-4so0o94sngsp23qb8jnn30mu0jrfcemi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
